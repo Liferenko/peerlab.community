@@ -38,6 +38,12 @@ peer_labs:
     meetup_url: https://www.meetup.com/Peer-Lab-Berlin/
     contact_email: kanemeghan@gmail.com, me@estebantorr.es
 
+  - city: Bishkek, Kyrgyzstan
+    schedule: Selected Sundays, 11:00am
+    location: 'ololo Vostok, Grazhdanskaya 29, Bishkek'
+    contact_email: liferenko.it@gmail.com
+
+
   - city: Chennai, India
     schedule: Every alternate Saturday, 10:30am
     location: Expertone Technologies, Chandrasekaran Avenue, 1st Main Road, 2nd Avenue, Dharshan Villa 1st Floor, Thoraippakkam (PTC Bus Stop), Chennai
@@ -234,11 +240,6 @@ peer_labs:
     meetup_url: https://www.meetup.com/Swift-Peer-Lab-Sydney/
     contact_twitter: jimmynhoran
     contact_email: jimmy.horan@outlook.com
-
-  - city: Bishkek, Kyrgyzstan
-    schedule: Every Sunday, 11:00am
-    location: 'ololo Vostok, Grazhdanskaya 29, Bishkek'
-    contact_email: liferenko.it@gmail.com
 
   - city: Warsaw, Poland
     schedule: Every Sunday, 10:00am
